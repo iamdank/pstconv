@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>pt.cjmach</groupId>
     <artifactId>pstconv</artifactId>
-    <version>0.9.6</version>
+    <version>0.9.7-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>pstconv</name>
     <description>Command line tool to convert Outlook OST/PST files to EML/MBOX format</description>
@@ -15,15 +15,15 @@
     </properties>
     
     <scm>
-        <developerConnection>scm:git:git@github.com:cjmach/pstconv.git</developerConnection>
-        <tag>v0.9.6</tag>
+        <developerConnection>scm:git:git@github.com:iamdank/pstconv.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
     
     <distributionManagement>
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/cjmach/pstconv</url>
+            <url>https://maven.pkg.github.com/iamdank/pstconv</url>
         </repository>
     </distributionManagement>
     
